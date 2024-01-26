@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "670a13a8dddfea71",
+    "type": "split",
+    "children": [
+      {
+        "id": "e705d3d3eb43c83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98bded7183477fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b7e3f7c15f8393f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d66a709fd5f3bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576c255e758718bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34827936238af4ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a5837cb0db25775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79cee4abaab7a3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a084ff825928a020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65589af83d35479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comandos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c743c84f2766251c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comandos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfbba53a687e7e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d75dc3f2ccd18063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comandos.md"
+              }
+            }
+          },
+          {
+            "id": "fa80fd5030c53ae8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d98bded7183477fd",
+  "lastOpenFiles": [
+    "Pasted image 20231229170117.png",
+    "Pasted image 20231031221413.png",
+    "Pasted image 20231031164511.png",
+    "git_and_github_logo.png",
+    "Comandos.md",
+    "Sin título",
+    "Comandos basicos/Comandos.md",
+    "Comandos basicos"
+  ]
+}
